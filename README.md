@@ -5,7 +5,7 @@ Land uses and land covers are classified as follows:
 2. Vegetation --> Forests, Agriculture, Greenland
 3. Buildup Area
 
-Landsat-8 OLI data is used to analyze the LULC patterns of the time range 2013-2022(quater-wise) using QGIS tool. LSTM(Long-Short Term Memory), a deep learning algorithm, is used for time-series analysis and prediction. 
+Landsat-8 OLI data is used to analyze the LULC patterns of the time range 2013-2022(quater-wise) using QGIS tool. LSTM(Long-Short Term Memory), a deep learning algorithm, is used for time-series analysis and prediction using python. 
 
 # Region of Interest
 ![lulc_region of interest](https://github.com/Diksha4111/Minor02-LULC/assets/78994799/5d0fb8c1-600d-42ac-8658-2d1c4734abc8)
