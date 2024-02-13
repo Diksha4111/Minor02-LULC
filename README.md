@@ -1,13 +1,8 @@
 # About
 This project analyzes and predicts the LULC(Land Use Land Cover) patterns in central region of india.
 Land uses and land covers are classified as follows:
-1. Water Bodies
-   a. Rivers
-   b. Lakes
-2. Vegetation
-   a. Forests
-   b. Agriculture
-   c. Greenland
+1. Water Bodies --> Rivers, Lakes
+2. Vegetation --> Forests, Agriculture, Greenland
 3. Buildup Area
 
 Landsat-8 OLI data is used to analyze the LULC patterns of the time range 2013-2022(quater-wise) using QGIS tool. LSTM(Long-Short Term Memory), a deep learning algorithm, is used for time-series analysis and prediction. 
